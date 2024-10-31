@@ -1,2 +1,2 @@
 # Fatec
-Trabalhos da fatec
+Repositorio para entrega de trabalhos da fatec
